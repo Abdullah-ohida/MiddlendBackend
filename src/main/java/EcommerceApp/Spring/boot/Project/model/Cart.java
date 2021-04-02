@@ -8,8 +8,5 @@ import lombok.Data;
 @AllArgsConstructor
 public class Cart {
 
-    String name;
-    String number;
-    String p;
 
 }
